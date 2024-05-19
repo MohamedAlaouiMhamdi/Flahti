@@ -1,4 +1,4 @@
-# 📚 Flahti: The Moroccan Farmers' Companion Chatbot
+# 📚 Flahti: The Moroccan Farmers Companion Chatbot
 
 ## 🌍 GenAI Challenge : Moroccan agriculture
 ### 📖 Project Description
