@@ -24,7 +24,7 @@ To demonstrate the functionality of Flahti, a recorded video/gif has been create
 - Interaction with Flahti.
 - Features such as crop selection guidance, pest management advice, and water management tips.
 
-Demo Video : https://github.com/MohamedAlaouiMhamdi/Flahti/assets/98537138/2842e6a6-e8c9-4901-9259-19b5a6ccdf50
+https://github.com/MohamedAlaouiMhamdi/Flahti/assets/98537138/2842e6a6-e8c9-4901-9259-19b5a6ccdf50
 
 
 
