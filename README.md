@@ -1,6 +1,6 @@
 # 📚 Flahti: The Moroccan Farmers' Companion Chatbot
 
-## 🌍 GenAI Challenge :Moroccan agricultural
+## 🌍 GenAI Challenge :Moroccan agriculture
 ### 📖 Project Description
 Flahti is an AI-powered chatbot designed to assist Moroccan farmers by providing comprehensive agricultural education and guidance. Flahti offers information on various aspects of farming, including crop selection, pest management, fertilization, water management, and optimal growing conditions. The chatbot aims to enhance farming practices, increase productivity, and promote sustainable agriculture in Morocco.
 
