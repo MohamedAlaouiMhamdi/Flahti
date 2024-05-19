@@ -19,7 +19,7 @@ Flahti provides personalized advice on:
 
 
 ### 🎥 Demo
-To demonstrate the functionality of Flahti, a recorded video/gif has been created. The demo showcases:
+The demo showcases:
 
 - Interaction with Flahti.
 - Features such as crop selection guidance, pest management advice, and water management tips.
